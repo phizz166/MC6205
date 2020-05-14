@@ -1,5 +1,5 @@
 ﻿/*
- Name:		mc6205.cpp
+ Name:		MC6205.cpp
  Created:	5/8/2018 8:53:34 AM
  Author:	silvan
  Editor:	http://www.visualmicro.com

@@ -1,5 +1,5 @@
 ﻿/*
- Name:		mc6205.h
+ Name:		MC6205.h
  Created:	5/8/2018 8:53:34 AM
  Author:	silvan
  Editor:	http://www.visualmicro.com
